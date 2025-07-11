@@ -11,15 +11,13 @@ I'm curious by nature and always looking for ways to improve, whether it's throu
   <img src="icons/AWS.png" alt="AWS" title="AWS" width="40" aria-label="AWS"/>
   <img src="icons/Bash.png" alt="Bash" title="Bash" width="40" aria-label="Bash"/>
   <img src="icons/Bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" aria-label="Bootstrap"/>
-  <img src="icons/C#.png" alt="C#" title="C#" width="40" aria-label="C#"/>
+  <img src="icons/CSharp.png" alt="C#" title="C#" width="40" aria-label="C#"/>
   <img src="icons/CSS3.png" alt="CSS3" title="CSS3" width="40" aria-label="CSS3"/>
   <img src="icons/Git.png" alt="Git" title="Git" width="40" aria-label="Git"/>
   <img src="icons/HTML5.png" alt="HTML5" title="HTML5" width="40" aria-label="HTML5"/>
   <img src="icons/Java.png" alt="Java" title="Java" width="40" aria-label="Java"/>
   <img src="icons/JavaScript.png" alt="JavaScript" title="JavaScript" width="40" aria-label="JavaScript"/>
   <img src="icons/Laravel.png" alt="Laravel" title="Laravel" width="40" aria-label="Laravel"/>
-  
-  <br/><br/>
 
   <!-- Row 2 -->
   <img src="icons/Microsoft SQL Server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="40" aria-label="Microsoft SQL Server"/>
