@@ -11,7 +11,7 @@ I'm curious by nature and always looking for ways to improve, whether it's throu
   <img src="icons/AWS.png" alt="AWS" title="AWS" width="40" aria-label="AWS"/>
   <img src="icons/Bash.png" alt="Bash" title="Bash" width="40" aria-label="Bash"/>
   <img src="icons/Bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" aria-label="Bootstrap"/>
-  <img src="icons/C# (CSharp).png" alt="C#" title="C#" width="40" aria-label="C#"/>
+  <img src="icons/C#.png" alt="C#" title="C#" width="40" aria-label="C#"/>
   <img src="icons/CSS3.png" alt="CSS3" title="CSS3" width="40" aria-label="CSS3"/>
   <img src="icons/Git.png" alt="Git" title="Git" width="40" aria-label="Git"/>
   <img src="icons/HTML5.png" alt="HTML5" title="HTML5" width="40" aria-label="HTML5"/>
